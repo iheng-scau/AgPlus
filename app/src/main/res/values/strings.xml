@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ag+</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="copyright_splash">
+        &#169;2008-2016, Ag+ &amp; Ag Palace.All Rights Reserved.
+    </string>
+</resources>
